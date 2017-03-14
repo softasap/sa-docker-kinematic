@@ -1,0 +1,3 @@
+---
+# tasks file for sa-docker-kitematic
+  - include: tasks_docker_kitematic.yml
